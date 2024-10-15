@@ -1,0 +1,2 @@
+from .mostrar_consola import mostrar_enunciado
+from .funciones import (cargar_existencias, mostrar_total_unidad_garaje, mostrar_calcular_recaudacion)
